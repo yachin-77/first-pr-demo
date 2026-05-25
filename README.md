@@ -2,20 +2,20 @@
 
 A simple demo project.
 
-## Fetures
+## Features
 
 - Easy to use
-- Ligthweight
+- Lightweight
 - Fast setup
 
 ## Getting Started
 
-Clone the repo and run the folowing command:
+Clone the repo and run the following command:
 
 ```bash
 echo "Hello, world"
 ```
 
-## Liscense
+## License
 
 MIT
